@@ -1,0 +1,7 @@
+git+https://github.com/huggingface/transformers@main
+causal-conv1d>=1.2.0
+mamba-ssm
+torch==2.1.0
+accelerate==0.27.2
+bitsandbytes==0.41.3
+scipy==1.11.4
